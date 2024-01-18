@@ -1,13 +1,12 @@
 # Movie CRUD Application
 
-This is a simple CRUD (Create, Read, Update, Delete) application for managing movies in a PostgreSQL database. The application is built using Slick, a reactive database library for Scala, and is containerized using Docker for easy deployment.
+This is a simple CRUD (Create, Read, Update, Delete) application for managing movies in a PostgreSQL database inside a Docker container. The application is built using *Slick*, a reactive database library for *Scala*, and is containerized using Docker for easy deployment.
 
 ## Prerequisites
 
 Make sure you have the following installed on your machine:
 
-- Docker
-- Docker Compose
+- Docker Desktop
 
 ## Setup
 
